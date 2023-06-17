@@ -1,0 +1,16 @@
+.last {
+    grid-column: 2;
+}
+
+.second {
+    grid-column: 1;
+    grid-row: 3;
+}
+
+#id1,
+#another,
+#dim,
+#another-dim {
+    background-color: #0A0A0A;
+    transition: background-color 200ms ease-in;
+}
